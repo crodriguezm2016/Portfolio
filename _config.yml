@@ -53,8 +53,8 @@ content:
     content:
       - layout: top-middle
         title: Predicting and Modeling Pulic Opinion
-        link: https://links.carlosrodriguezm.com/seniorprojectpaper
-        link_text: Project Website
+        link: https://drive.google.com/file/d/1pXVFEika4Dr6eVNw8nBse2F8aiIk3lXz/view
+        link_text: Paper Typeset with LaTeX
         additional_links:
           - title:  senior project github
             icon: fab fa-github
@@ -71,8 +71,8 @@ content:
           
       - layout: top-middle
         title: Stock Price Tracker Web App
-        link: https://links.carlosrodriguezm.com/stockapp
-        # link_text: Project Website
+        link: https://share.streamlit.io/crodriguezm2016/stock-app/main/stockapp.py
+        link_text: Interactive Web App Link
         additional_links:
           - title:  stockapp github
             icon: fab fa-github
@@ -89,10 +89,10 @@ content:
       - layout: top-middle
         title: 2016 Election Data Visualization
         link: https://links.carlosrodriguezm.com/2016election
-        link_text: Project Website
+        link_text: Runable Google Colab Link
         additional_links:
           - title:  Github page for project (eg. sproogen/modern-resume-theme)
-            icon: fab fa-github
+            icon: fab fa-globe
             url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         description: | # this will include new lines to allow paragraphs
           This coding project takes voting data from the 2016 Presidential Election and creates a Choropleth map by county to show the percent of vote share that Hilary Clinton or Donald Trump received.
