@@ -90,10 +90,10 @@ content:
         title: 2016 Election Data Visualization
         link: https://colab.research.google.com/drive/19aVPWWbxLtchqkNbnelDMcQVPzLGyl32?usp=sharing
         link_text: Runable Google Colab Link
-        additional_links:
-          - title:  Github page for project (eg. sproogen/modern-resume-theme)
-            icon: fas fa-globe
-            url: https://colab.research.google.com/drive/19aVPWWbxLtchqkNbnelDMcQVPzLGyl32?usp=sharing
+        #additional_links:
+          #- title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #  icon: fas fa-globe
+          #  url: https://colab.research.google.com/drive/19aVPWWbxLtchqkNbnelDMcQVPzLGyl32?usp=sharing
         description: | # this will include new lines to allow paragraphs
           This coding project takes voting data from the 2016 Presidential Election and creates a Choropleth map by county to show the percent of vote share that Hilary Clinton or Donald Trump received.
           FIPS and a GeoJSON file are used to determine the color and shade to mark each county area.
