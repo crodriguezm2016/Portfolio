@@ -9,7 +9,6 @@ version: 2
 name: Carlos Rodriguez-Munoz
 title: Aspiring Data Expert
 email: carlos.rodriguez.munoz98@gmail.com
-# website: www.github.com/sproogen/resume-theme
 
 # Dark Mode (true/false/never)
 darkmode: false
@@ -90,10 +89,10 @@ content:
       - layout: top-middle
         title: 2016 Election Data Visualization
         link: https://links.carlosrodriguezm.com/2016election
-        # link_text: Project Website
+        link_text: Project Website
         additional_links:
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
+          #   icon: fas fa-globe
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         description: | # this will include new lines to allow paragraphs
           This coding project takes voting data from the 2016 Presidential Election and creates a Choropleth map by county to show the percent of vote share that Hilary Clinton or Donald Trump received.
