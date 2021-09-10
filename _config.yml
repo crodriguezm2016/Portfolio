@@ -87,16 +87,19 @@ content:
           I created this project in **VS Code** using **Python** and utilized packages such as **pandas** and **yfinance**.
           
       - layout: top-middle
-        title: 2016 Election Data Visualization
-        link: https://colab.research.google.com/drive/19aVPWWbxLtchqkNbnelDMcQVPzLGyl32?usp=sharing
+        title: COVID-19 vs 2020 Voting Data by County
+        link: https://colab.research.google.com/drive/11g2WB9-6fIW4piMyy8u7KNUTkLE7x_xK?usp=sharing
         link_text: Runable Google Colab Link
         #additional_links:
           #- title:  Github page for project (eg. sproogen/modern-resume-theme)
           #  icon: fas fa-globe
           #  url: https://colab.research.google.com/drive/19aVPWWbxLtchqkNbnelDMcQVPzLGyl32?usp=sharing
         description: | # this will include new lines to allow paragraphs
-          This coding project takes voting data from the 2016 Presidential Election and creates a Choropleth map by county to show the percent of vote share that Hilary Clinton or Donald Trump received.
-          FIPS and a GeoJSON file are used to determine the color and shade to mark each county area.
+          This coding project takes voting data from the 2020 Presidential Election and compares it to COVID-19 death rates in the same county.
+          I created a Choropleth map by county to show the percent of vote share that Joe Biden or Donald Trump received, as well as the death rate in that county from Covid.
+          FIPS and a GeoJSON file are used to determine the county designations.
+          A few different visualizations are made, with different focuses on the voting data vs the death rate data. 
+          Covid data is pulled from the New York Times.
           
           I created this project in **Google Colab** using **Python** and **Jupyter Notebooks**, utilizing packages such as **pandas** and **plotly**.
 
@@ -148,6 +151,7 @@ content:
             During the day, I taught **Math**, English, **Computers**, and E-sports to over **30** students between **2nd** grade and **8th** grade.
             In the evenings, I would foster mentorships with the boarding students, tutor, and perform nightly checks for over **50** students. 
             
+            PS. This looks intimidating and hard to say and well it kind of is but here is my best pronunciation guide: Vey - le - fyor - sko - len
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
@@ -180,10 +184,10 @@ content:
     layout: text
     content: | # this will include new lines to allow paragraphs
       Some more details about things I have been interested in lately:
-      - Coffee: Currently enjoying a washed single origin from Ethiopia by Roseline
-      - Gaming: Lately, I've been playing Gunfire Reborn and League of Legends
-      - Learning: Teaching myself some machine learning concepts from freeCodeCamp
-      - Math: Mathematical Modeling and Differential Equations have been top of my list lately
+      - Coffee: Currently enjoying a washed single origin from Ethiopia by [Water Avenue Coffee](https://wateravenuecoffee.com/collections/beans/products/ethiopia-limmu-kossa) in Portland.
+      - Gaming: Lately, I've been playing Gunfire Reborn and League of Legends.
+      - Learning: Teaching myself some machine learning concepts from freeCodeCamp.
+      - Math: Mathematical Modeling and Differential Equations have been top of my list lately, but I am gearing up for Real Analysis this next quarter!
       - Backpacking: Still reminiscing about the Tour du Mont Blanc which I did back in summer of 2019, pics of my trip can be found [here](https://drive.google.com/drive/folders/1pDKwUIW73xAk_3IKdI7oeG6KVyAbrZWW?usp=sharing).
       - Traveling: I've visited over 20 countries and am super excited to visit even more! Some of my favorite cities are Copenhagen (I'm biased), Venice, and Prague.
 
