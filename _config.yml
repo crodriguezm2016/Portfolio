@@ -107,11 +107,22 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
+        title: Data Analyst, People Analytics
+        link: https://newrelic.com/
+        # link_text: boringcompany.com
+        sub_title: New Relic
+        caption: October 2021 - Present
+        quote: >
+          We’re data nerds that do everything for the love of software.
+        description: | # this will include new lines to allow paragraphs
+            More to come in this section as I get settled in my role.
+            
+      - layout: left
         title: TA/HR Data Analysis Intern
         link: motional.com
         # link_text: boringcompany.com
         sub_title: Motional
-        caption: June 2021 - Present
+        caption: June 2021 - October 2021
         quote: >
           We're making driverless vehicles a safe, reliable, and accessible reality.
         description: | # this will include new lines to allow paragraphs
@@ -124,7 +135,7 @@ content:
         link: wallawalla.edu
         # link_text: boringcompany.com
         sub_title: Walla Walla University
-        caption: September 2020 - Present
+        caption: September 2020 - October 2021
         description: | # this will include new lines to allow paragraphs
             As a Teacher's Assistant, I assisted **4** different professors in both the **Math** and **Business** departments at my university.
             I taught the lab component of the **Intro to Statistics** class to over **20** students each week. 
@@ -135,7 +146,7 @@ content:
         link: wallawalla.edu
         # link_text: boringcompany.com
         sub_title: Walla Walla University
-        caption: September 2019 - Present
+        caption: September 2019 - October 2021
         description: | # this will include new lines to allow paragraphs
             As a peer tutor, I became a **CRLA Level 1 Certified Peer Tutor**.
             I helped over **10** students each week, both in person and virtually over **Microsoft Teams** in areas such as **Statistics**, **Calculus**, **R Programming**, and **Differential Equations**.
@@ -184,10 +195,10 @@ content:
     layout: text
     content: | # this will include new lines to allow paragraphs
       Some more details about things I have been interested in lately:
-      - Coffee: Currently enjoying a washed single origin from Ethiopia by [Water Avenue Coffee](https://wateravenuecoffee.com/collections/beans/products/ethiopia-limmu-kossa) in Portland.
-      - Gaming: Lately, I've been playing Gunfire Reborn and League of Legends.
-      - Learning: Teaching myself some machine learning concepts from freeCodeCamp.
-      - Math: Mathematical Modeling and Differential Equations have been top of my list lately, but I am gearing up for Real Analysis this next quarter!
+      - Coffee: Currently enjoying a washed single origin from Ethiopia by [Heart Coffee Roasters](https://www.heartroasters.com/collections/beans/products/ethiopia-worka-sakaro) in Portland.
+      - Gaming: Lately, I've been playing Teamfight Tactics, specifically set 6 on the PBE server.
+      - Learning: Teaching myself some machine learning concepts from DataCamp.
+      - Math: Currently taking a course on Real Analysis which builds the foundations of Calculus.
       - Backpacking: Still reminiscing about the Tour du Mont Blanc which I did back in summer of 2019, pics of my trip can be found [here](https://drive.google.com/drive/folders/1pDKwUIW73xAk_3IKdI7oeG6KVyAbrZWW?usp=sharing).
       - Traveling: I've visited over 20 countries and am super excited to visit even more! Some of my favorite cities are Copenhagen (I'm biased), Venice, and Prague.
 
