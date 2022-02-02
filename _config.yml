@@ -11,7 +11,7 @@ title: Aspiring Data Expert
 email: carlos.rodriguez.munoz98@gmail.com
 
 # Dark Mode (true/false/never)
-darkmode: false
+darkmode: never
 
 # Social links
 # twitter_username: facespics
@@ -29,17 +29,17 @@ linkedin_username: crodriguezmunoz
 # orcid_username: 0000-0000-0000-0000
 
 # Additional icon links
-# additional_links:
-# - title: Linktree
-#  icon: fas fa-globe
-#  url: https://www.itsgoingto.be
+additional_links:
+- title: Resume
+  icon: fas fa-globe
+  url: https://docs.google.com/document/d/1AEW-UKNQ445hfGUcT9RyMyJJDnu9E1sqZbCFf51LWzQ/edit?usp=sharing
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
 
 # About Section
 # about_title: About Me
-about_profile_image: images/profile-circle.png
+about_profile_image: images/0001-modified.png
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name's Carlos and I'm an aspiring Data Expert. I have prior internship experience in data analytics and my personal projects focus on data science. 
   I love learning and teaching others, so I am constantly pushing myself to work on new projects and to ask tons of questions!
@@ -179,7 +179,7 @@ content:
     content: | # this will include new lines to allow paragraphs
       My main skill set includes:
       - Math: My strongest areas are in **Statistics** and **Differential Equations**
-      - Programming: **R**, **Python**, and **SQL** are my strong suits.
+      - Programming: **Python** is my strong programming language. I am continuing to learn and develop my **SQL** and **R** skills.
       - Data Analytics: I have extensive experience using **Google Sheets**, **Excel**, and **Google Data Studio**.
       - Remote Work: I am comfortable with **Microsoft Teams**, **Zoom**, **G-Suite**, **Slack**, and **Overleaf** for **LaTeX**.
       - Languages: My native language is English, I am somewhat conversational in Danish, and am at a beginner level with Spanish.
@@ -195,12 +195,12 @@ content:
     layout: text
     content: | # this will include new lines to allow paragraphs
       Some more details about things I have been interested in lately:
-      - Coffee: Currently enjoying a washed single origin from Ethiopia by [Heart Coffee Roasters](https://www.heartroasters.com/collections/beans/products/ethiopia-worka-sakaro) in Portland.
-      - Gaming: Lately, I've been playing Teamfight Tactics, specifically set 6 on the PBE server.
-      - Learning: Teaching myself some machine learning concepts from DataCamp.
-      - Math: Currently taking a course on Real Analysis which builds the foundations of Calculus.
+      - Coffee: Currently enjoying a washed single origin from Ethiopia by [Skaut Coffee Roasters.](https://www.skautcoffeeroasters.com/product-page/rowena-crest-light-roast) in Portland.
+      - Learning: Teaching myself some machine learning concepts from DataCamp. Also working on getting better at R and the tidyverse since I am currently more comfortable with Python.
+      - Math: My math learning has taken a backseat lately but hoping to hop into some more statistics and distribution types.
       - Backpacking: Still reminiscing about the Tour du Mont Blanc which I did back in summer of 2019, pics of my trip can be found [here](https://drive.google.com/drive/folders/1pDKwUIW73xAk_3IKdI7oeG6KVyAbrZWW?usp=sharing).
       - Traveling: I've visited over 20 countries and am super excited to visit even more! Some of my favorite cities are Copenhagen (I'm biased), Venice, and Prague.
+      - Gaming: Been playing a ton of Teamfight Tactics and managed to hit Diamond 3 for set 6! Check it out [here](https://lolchess.gg/profile/na/carlitos). I also just got Pokemon Legends Arceus so I expect to be playing that quite a bit as well.
 
 # Footer
 footer_show_references: true
