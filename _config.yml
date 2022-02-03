@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: Carlos Rodriguez-Munoz
-title: Aspiring Data Expert
+title: Data Analyst, People Analytics
 email: carlos.rodriguez.munoz98@gmail.com
 
 # Dark Mode (true/false/never)
@@ -41,16 +41,41 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/0001-modified.png
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Carlos and I'm an aspiring Data Expert. I have prior internship experience in data analytics and my personal projects focus on data science. 
-  I love learning and teaching others, so I am constantly pushing myself to work on new projects and to ask tons of questions!
+  Hey! I'm Carlos and I'm aspiring to become a Data Expert who can find ways to give back to my community through teaching, mentoring, and more. 
+  Starting college, I was studing nursing which made me take a statistics course and I fell in love with math.
+  Next thing I knew, I had switch my major and the rest is history. Part way through college, I took a year off, moved to Denmark and spent the year working as a dean
+  and teacher. This experience sparked my love for teaching, mentoring, and traveling. When I got back, I continued my degree in Mathematics and added a minor in Economics.
+  I started working as a Teacher's Assistant for the Math and Business departments on campus which gave me the opportunity to teach and mentor students.
+  During my final summer in college I got an internship at Motional where I worked as a Data Analyst on the Talent Acquisition team. 
+  About 2 months before I graduated, I was extremely lucky to get an offer with New Relic and I have been working full time as a Data Analyst in People Analytics since then.
 
-
-  I am most passionate about: Using **Data-Driven** decision making, **mathematics**, **learning**, and pour over style **coffee**.
+  In my free time, I spend most of my time learning, mentoring, making coffee, and gaming. Part of my learning involves working on new personal projects which you can find on
+  my GitHub and even some down below. I have a huge passion for helping others find jobs and internships so I work with students from my alma mater to do resume reviews, carreer counseling,
+  and networking. I am really into coffee as well! I currently brew with a V60 but am planning on getting an espresso machine soon. Gaming is my main hobby for pleasure.
+  I am pretty competitive so I wouldn't say it is always relaxing but I sure do enjoy it! For more information and details on this stuff, look at the final section on my website.
 
 content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
+    
+      - layout: top-middle
+        title: COVID-19 vs 2020 Voting Data by County
+        link: https://colab.research.google.com/drive/11g2WB9-6fIW4piMyy8u7KNUTkLE7x_xK?usp=sharing
+        link_text: Runable Google Colab Link
+        #additional_links:
+          #- title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #  icon: fas fa-globe
+          #  url: https://colab.research.google.com/drive/19aVPWWbxLtchqkNbnelDMcQVPzLGyl32?usp=sharing
+        description: | # this will include new lines to allow paragraphs
+          This coding project takes voting data from the 2020 Presidential Election and compares it to COVID-19 death rates in the same county.
+          I created a Choropleth map by county to show the percent of vote share that Joe Biden or Donald Trump received, as well as the death rate in that county from Covid.
+          FIPS and a GeoJSON file are used to determine the county designations.
+          A few different visualizations are made, with different focuses on the voting data vs the death rate data. 
+          Covid data is pulled from the New York Times.
+          
+          I created this project in **Google Colab** using **Python** and **Jupyter Notebooks**, utilizing packages such as **pandas** and **plotly**.
+    
       - layout: top-middle
         title: Predicting and Modeling Pulic Opinion
         link: https://drive.google.com/file/d/1pXVFEika4Dr6eVNw8nBse2F8aiIk3lXz/view
@@ -86,23 +111,6 @@ content:
           
           I created this project in **VS Code** using **Python** and utilized packages such as **pandas** and **yfinance**.
           
-      - layout: top-middle
-        title: COVID-19 vs 2020 Voting Data by County
-        link: https://colab.research.google.com/drive/11g2WB9-6fIW4piMyy8u7KNUTkLE7x_xK?usp=sharing
-        link_text: Runable Google Colab Link
-        #additional_links:
-          #- title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #  icon: fas fa-globe
-          #  url: https://colab.research.google.com/drive/19aVPWWbxLtchqkNbnelDMcQVPzLGyl32?usp=sharing
-        description: | # this will include new lines to allow paragraphs
-          This coding project takes voting data from the 2020 Presidential Election and compares it to COVID-19 death rates in the same county.
-          I created a Choropleth map by county to show the percent of vote share that Joe Biden or Donald Trump received, as well as the death rate in that county from Covid.
-          FIPS and a GeoJSON file are used to determine the county designations.
-          A few different visualizations are made, with different focuses on the voting data vs the death rate data. 
-          Covid data is pulled from the New York Times.
-          
-          I created this project in **Google Colab** using **Python** and **Jupyter Notebooks**, utilizing packages such as **pandas** and **plotly**.
-
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
@@ -115,7 +123,12 @@ content:
         quote: >
           We’re data nerds that do everything for the love of software.
         description: | # this will include new lines to allow paragraphs
-            More to come in this section as I get settled in my role.
+            At New Relic, I primarily work with the HRBP and Executive teams to provide meticulous reporting on People data. This includes but is not limited to,
+            data pertaining to annual review cycle, ad hoc requests about People Metrics, Enablement projects to raise data literacy within our teams, compensations reporting and planning, and more.
+            The main tools I use on a day to day basis include, **Python**, **R**, **GitHub**, **Google Sheets**, **Microsoft Excel**, **Asana** and **Slack**.
+            Occasionally, I use **Tableau** and **SQL**. Some technical responsibilites that I take on include building and maintaining data pipelines through APIs,
+            creating scripts in Python and R to clean and upload data to Google Sheets for a non-technical audience to utilize, and building out pages for our wiki using Markdown
+            and CSS to bring clear definitions for the metrics that we report on. 
             
       - layout: left
         title: TA/HR Data Analysis Intern
