@@ -51,13 +51,29 @@ about_content: | # this will include new lines to allow paragraphs
 
   In my free time, I spend most of my time learning, mentoring, making coffee, and gaming. Part of my learning involves working on new personal projects which you can find on
   my GitHub and even some down below. I have a huge passion for helping others find jobs and internships so I work with students from my alma mater to do resume reviews, carreer counseling,
-  and networking. I am really into coffee as well! I currently brew with a V60 but am planning on getting an espresso machine soon. Gaming is my main hobby for pleasure.
+  and networking. I am really into coffee as well! I just got an espresso machine (Lucca A53 Mini) so I have been making tons of cappuccino and other espresso drinks. Gaming is my main hobby for pleasure.
   I am pretty competitive so I wouldn't say it is always relaxing but I sure do enjoy it! For more information and details on this stuff, look at the final section on my website.
 
 content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
+    
+      - layout: top-middle
+        title: Spotify Wrapped
+        link: https://spotifywrapped.carlosrodriguezm.com/
+        link_text: Streamlit App
+        additional_links:
+          - title:  Github: SpotifyWrapped
+            icon: fas fa-globe
+            url: https://github.com/crodriguezm2016/SpotifyWrapped
+        description: | # this will include new lines to allow paragraphs
+          I love seeing my listening stats and most listened to artists from Spotify at the end of the year. That got me thinking, what if I could see my Spotify Wrapped at any point in the year?
+          This project guides users on how to download their Spotify data, allows them to upload it to the web app and then let's them customize their data experience.
+          This project is one of my most recent projects so it was cool for me to be able to apply some new things I had learned like using lambdas and trying to create an experience that people would enjoy using.
+          I have more ideas that I would like to implement with this project, so hopefully more to come soon!
+          
+          I created this project in **VS Code** using **Python**, utilizing packages such as **streamlit**, **pandas**, and **plotly**.
     
       - layout: top-middle
         title: COVID-19 vs 2020 Voting Data by County
@@ -208,7 +224,7 @@ content:
     layout: text
     content: | # this will include new lines to allow paragraphs
       Some more details about things I have been interested in lately:
-      - Coffee: Currently enjoying a washed single origin from Ethiopia by [Skaut Coffee Roasters.](https://www.skautcoffeeroasters.com/product-page/rowena-crest-light-roast) in Portland.
+      - Coffee: Currently enjoying a washed single origin from Ethiopia by [Sightglass Coffee](https://sightglasscoffee.com/products/worka-chelbessa-yirgacheffe) in San Francisco.
       - Learning: Teaching myself some machine learning concepts from DataCamp. Also working on getting better at R and the tidyverse since I am currently more comfortable with Python.
       - Math: My math learning has taken a backseat lately but hoping to hop into some more statistics and distribution types.
       - Backpacking: Still reminiscing about the Tour du Mont Blanc which I did back in summer of 2019, pics of my trip can be found [here](https://drive.google.com/drive/folders/1pDKwUIW73xAk_3IKdI7oeG6KVyAbrZWW?usp=sharing).
