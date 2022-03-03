@@ -71,7 +71,7 @@ content:
           I love seeing my listening stats and most listened to artists from Spotify at the end of the year. That got me thinking, what if I could see my Spotify Wrapped at any point in the year?
           This project guides users on how to download their Spotify data, allows them to upload it to the web app and then let's them customize their data experience.
           This project is one of my most recent projects so it was cool for me to be able to apply some new things I had learned like using lambdas and trying to create an experience that people would enjoy using.
-          I have more ideas that I would like to implement with this project, so hopefully more to come soon!
+          I have more ideas that I would like to implement with this project, so hopefully more to come soon.
           
           I created this project in **VS Code** using **Python**, utilizing packages such as **streamlit**, **pandas**, and **plotly**.
     
