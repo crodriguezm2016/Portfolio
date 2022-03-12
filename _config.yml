@@ -64,7 +64,7 @@ content:
         link: https://spotifywrapped.carlosrodriguezm.com/
         link_text: Streamlit App
         additional_links:
-          - title:  Github: SpotifyWrapped
+          - title:  Github SpotifyWrapped
             icon: fas fa-globe
             url: https://github.com/crodriguezm2016/SpotifyWrapped
         description: | # this will include new lines to allow paragraphs
