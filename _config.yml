@@ -224,7 +224,7 @@ content:
     layout: text
     content: | # this will include new lines to allow paragraphs
       Some more details about things I have been interested in lately:
-      - Coffee: Currently, on espresso, I am enjoying a washed single origin from Ethiopia by [Onyx Coffee](https://onyxcoffeelab.com/products/geometry). I loved that the name reminded me of Math!
+      - Coffee: Currently, on espresso, I am drinking the Blue Orchid Blend from Huckleberry Roasters in Denver, CO.
       - Learning: Teaching myself some machine learning concepts from DataCamp. Also working on getting better at R and the tidyverse since I am currently more comfortable with Python.
       - Math: My math learning has taken a backseat lately but hoping to hop into some more statistics and distribution types.
       - Backpacking: Still reminiscing about the Tour du Mont Blanc which I did back in summer of 2019, pics of my trip can be found [here](https://drive.google.com/drive/folders/1pDKwUIW73xAk_3IKdI7oeG6KVyAbrZWW?usp=sharing).
