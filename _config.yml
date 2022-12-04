@@ -61,7 +61,7 @@ content:
     
       - layout: top-middle
         title: Spotify Wrapped
-        link: https://crodriguezm2016-spotifywrapped-spotifyapp-647bja.streamlit.app/
+        link: https://spotifywrap-carlosrodriguezm.streamlit.app/
         link_text: Streamlit App
         additional_links:
           - title:  Github SpotifyWrapped
