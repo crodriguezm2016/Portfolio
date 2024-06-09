@@ -8,7 +8,7 @@ version: 2
 # Personal info
 name: Carlos Rodriguez-Munoz
 title: Data Analyst, People Analytics
-email: carlos.rodriguez.munoz98@gmail.com
+#email: carlos.rodriguez.munoz98@gmail.com
 
 # Dark Mode (true/false/never)
 darkmode: never
@@ -20,7 +20,7 @@ github_username:  crodriguezm2016
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
-instagram_username: c_rodriguezm
+# instagram_username: c_rodriguezm
 linkedin_username: crodriguezmunoz
 # xing_username: jekyll
 # pinterest_username: jekyll
@@ -32,7 +32,7 @@ linkedin_username: crodriguezmunoz
 additional_links:
 - title: Resume
   icon: fas fa-globe
-  url: https://docs.google.com/document/d/1AEW-UKNQ445hfGUcT9RyMyJJDnu9E1sqZbCFf51LWzQ/edit?usp=sharing
+  #url: https://docs.google.com/document/d/1AEW-UKNQ445hfGUcT9RyMyJJDnu9E1sqZbCFf51LWzQ/edit?usp=sharing
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
